@@ -6,7 +6,7 @@ Building user interactive Web Apps using VueJS, Tailwind CSS & Laravel.
 
 ```
 git clone git@github.com:scriptmint-solution/vutal-stack-setup.git vutal-stack
-cd tall-stack
+cd vutal-stack
 composer install
 npm install
 npm run dev
